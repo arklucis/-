@@ -5,3 +5,5 @@
 ![Снимок3](https://github.com/arklucis/Kanban-Scrum/assets/154414081/47d96a7b-af7f-4288-a116-c402ff719d1b)
 
 ![Снимок4](https://github.com/arklucis/Kanban-Scrum/assets/154414081/bb9eaf11-badf-4b29-9ccd-80ece65c9d04)
+
+![Снимок5](https://github.com/arklucis/Kanban-Scrum/assets/154414081/b5bbc6a3-c39e-4d14-935d-a0068ad88850)
